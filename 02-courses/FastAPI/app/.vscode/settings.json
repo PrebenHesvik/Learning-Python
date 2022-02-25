@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:/Users/Preben/Miniconda3/envs/fastAPI/python.exe",
+    "python.analysis.extraPaths": ["app"]
+}
